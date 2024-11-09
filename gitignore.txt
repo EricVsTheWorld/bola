@@ -12,6 +12,8 @@
 [Uu]ser[Ss]ettings/
 [Mm]emoryCaptures/
 [Rr]ecordings/
+Library/
+Temp/
 
 # Visual Studio / JetBrains Rider
 .vs/
